@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script will install the geteduroam Linux client to your system.
+This script will install the [geteduroam Linux client](https://github.com/geteduroam/linux-app) to your system.
 
 ## Installation
 
